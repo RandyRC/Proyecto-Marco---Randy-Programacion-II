@@ -11,7 +11,7 @@ Es una aplicación desarrollada con tecnología .NET Core 6.0, específicamente 
 
 **Aviso importante**
 >La aplicación solo funciona en sistema operativo Windows.
->Se puede ejecutar en Visual Studio 2022 o desde la carpeta del proyecto/bin/debug y abrir la aplicación.
+>Para accerder al código que hay tras el proyecto se debe abrir el archivo `SLN` que tendrá como nombre `Proyecto de Programacion II Marco-Randy` desde Visual Studio 2022 y una vez ahí presionar la tecla `F5`, por otra parte si sólo se planea jugar se ejecuta desde la carpeta del proyecto/bin/debug y abrir la aplicación.
 
 ## Ejecución
 > Al ejecutar la aplicación ya sea desde Visual Studio o directamente desde el archivo ejecutable, se despliega lo que llamaremos `Cuadro de inicio` no es más que la bienvenida y el título de la aplicación con dos botones `Exit` y `Start` , sus funcionalidades son cerrar el componente visual y comenzar a personalizar el juego respectivamente. Si la opción marcada es `Start` se despliega el `Menú de personalización` donde se le muestra al usuario las posibles variaciones ya existentes en el juego.
