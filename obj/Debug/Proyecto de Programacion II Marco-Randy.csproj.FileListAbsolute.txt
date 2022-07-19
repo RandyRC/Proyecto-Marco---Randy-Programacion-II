@@ -1,0 +1,176 @@
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\App.g.cs
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\MainWindow.baml
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\source\repos\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\MainWindow.g.cs
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\App.g.cs
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\MainWindow.baml
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\RANDY\Desktop\Proyecto de Programacion II Marco-Randy\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy LISTO\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Emoji\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\000 PROYECTO II VERSIONES\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programacion II Marco-Randy Entrega\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Desktop\Nueva carpeta (3)\Proyecto de Programación II Marco - Randy C212 Entrega Oficial\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\bin\Debug\Proyecto de Programacion II Marco-Randy.exe.config
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\bin\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\bin\Debug\Proyecto de Programacion II Marco-Randy.pdb
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.AssemblyReference.cache
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\App.g.cs
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.cache
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy_MarkupCompile.lref
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\MainWindow.baml
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.g.resources
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto_de_Programacion_II_Marco_Randy.Properties.Resources.resources
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.GenerateResource.cache
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.exe
+C:\Users\samsung\Documents\GitHub\Proyecto-Marco---Randy-Programacion-II\obj\Debug\Proyecto de Programacion II Marco-Randy.pdb
